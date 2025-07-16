@@ -38,7 +38,7 @@ git clone https://github.com/amigo-nishant/getting-started.git
 ```jsx
 cd getting-started
 ```
-3. Since we are using yarn as a package manager
+3. Deploy the App
 ```jsx
 npm install
 node src/index.js
