@@ -43,3 +43,7 @@ cd getting-started
 npm install
 node src/index.js
 ```
+4. Test the App Frontend
+```jsx
+http://pblic-ip-ec2:3000/
+```
