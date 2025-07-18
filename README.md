@@ -1,5 +1,6 @@
 # Getting started
-Our NodeJS App is dependent on v18.20.8, you need to install the similar version
+- Our NodeJS App is dependent on v18.20.8, you need to install the similar version
+- TCP Port 3000 is enabled in Security Group 
 
 ### Install NodeJS on EC2 Ubuntu instance
 ```jsx
