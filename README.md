@@ -54,5 +54,5 @@ node src/index.js
 
 5. Test the App Frontend
 ```jsx
-http://pblic-ip-ec2:3000/
+http://public-ip-ec2:3000/
 ```
