@@ -31,9 +31,9 @@ npm -v # Should print "10.8.2".
 ```
 
 ### Steps to deploy Locally or on DEV environment
-1. Clone the app
+1. Make sure we are root user
 ```jsx
-git clone https://github.com/amigo-nishant/getting-started.git
+sudo su
 ```
 
 2. Clone the app
@@ -41,23 +41,18 @@ git clone https://github.com/amigo-nishant/getting-started.git
 git clone https://github.com/amigo-nishant/getting-started.git
 ```
 
-3. Clone the app
-```jsx
-git clone https://github.com/amigo-nishant/getting-started.git
-```
-
-4. Change the directory
+3. Change the directory
 ```jsx
 cd getting-started
 ```
 
-5. Deploy the App
+4. Deploy the App
 ```jsx
 npm install
 node src/index.js
 ```
 
-6. Test the App Frontend
+5. Test the App Frontend
 ```jsx
 http://pblic-ip-ec2:3000/
 ```
