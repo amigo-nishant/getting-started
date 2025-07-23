@@ -35,20 +35,29 @@ npm -v # Should print "10.8.2".
 ```jsx
 git clone https://github.com/amigo-nishant/getting-started.git
 ```
+
 2. Clone the app
 ```jsx
 git clone https://github.com/amigo-nishant/getting-started.git
 ```
-3. Change the directory
+
+3. Clone the app
+```jsx
+git clone https://github.com/amigo-nishant/getting-started.git
+```
+
+4. Change the directory
 ```jsx
 cd getting-started
 ```
-4. Deploy the App
+
+5. Deploy the App
 ```jsx
 npm install
 node src/index.js
 ```
-5. Test the App Frontend
+
+6. Test the App Frontend
 ```jsx
 http://pblic-ip-ec2:3000/
 ```
