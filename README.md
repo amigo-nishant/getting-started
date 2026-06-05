@@ -8,6 +8,8 @@ node src/index.js
 ```
 The app will use a local SQLite database file (`todo.db`) and listen on port 3000.
 
+- PLEASE NOTE: TCP Port **3000** must be enabled in **Security Group**
+
 ---
 
 ### Install NodeJS on EC2 Ubuntu instance
